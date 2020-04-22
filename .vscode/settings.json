@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.htm": "html",
+        "*.html": "html",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "cstring": "cpp",
+        "string": "cpp",
+        "regex": "cpp",
+        "string_view": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "cstdio": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\31691\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
