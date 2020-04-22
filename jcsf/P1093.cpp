@@ -31,7 +31,7 @@ int main()
     {
         cin>>a[i].ch>>a[i].ma>>a[i].en;
         a[i].inn=i;
-        a[i].sum=a[i].ch+a[i].ma+a[i].en;233
+        a[i].sum=a[i].ch+a[i].ma+a[i].en;
     }
     sort(a+1,a+n+1,cmp);
     for(int i=1;i<=5;i++)
