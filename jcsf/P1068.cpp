@@ -19,7 +19,7 @@ int main()
     {
         cin>>a[i].num>>a[i].sco;
     }
-    sort(a+1,a+n+1,cmp);
+    sort(a+1,a+n+1,);
     m=floor(m*150/100);
     m=a[m].sco;
     cout<<m<<" ";
