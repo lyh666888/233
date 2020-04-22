@@ -1,18 +1,13 @@
 #include<iostream>
-#include<cstdio>
+#include<stack>
 using namespace std;
+stack <int >s;
 int main()
 {
-    freopen("input.in","w",stdout);
-    cout<<100000<<" "<<10000<<endl;
-    for(int i=1;i<=100000;i++)
+    cout<<s.empty()<<endl;
+    if(s.empty())
     {
-        cout<<1<<" ";
-    }
-    cout<<endl;
-    for(int i=1;i<=10000;i++)
-    {
-        cout<<2<<" "<<0<<endl;
+        cout<<s.empty()<<endl;
     }
     return 0;
 }
