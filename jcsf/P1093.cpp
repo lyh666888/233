@@ -39,4 +39,5 @@ int main()
         cout<<a[i].inn<<" "<<a[i].sum<<endl;
     }
     return 0;
+    return -1;
 }
